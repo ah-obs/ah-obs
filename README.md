@@ -11,7 +11,6 @@
 <!-- GitHub Readme Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ah-obs&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah-obs&layout=compact&theme=github_dark&hide_border=true" height="150"/>
 </p>
 
 <!-- Streak Stats -->
